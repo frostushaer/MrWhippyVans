@@ -20,13 +20,14 @@ function App() {
         <Navbar />
         <div className="header"></div>
         {/* <LandingPage /> */}
-        {/* <IceCreamDrip position="top" /> */}
+        
         {/* <Drip /> */}
         <SwipeCarousel />
         {/* <div className="divider-2"></div> */}
         <AboutUs />
         <Message />
-        <div className="divider-2"></div>
+        {/* <div className="divider-2"></div> */}
+        {/* <IceCreamDrip position="top" /> */}
         <CardCarousel />
         <Menu />
         <div className="divider-2"></div>
